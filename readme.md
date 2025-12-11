@@ -11,6 +11,7 @@ hello world
 - sam
 - [ ] task1
 - [x] task2
+- [ ] task 3
 
 to checke git repository use`git init`in terminal
 ``` python
